@@ -1,0 +1,1 @@
+insert into port(id,name,location,number_of_instance_port) values(10001, 'port1', 'MTY', 0)
